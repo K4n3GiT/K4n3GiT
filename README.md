@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @K4n3GiT
 - 👀 I’m interested in technology
 - 🌱 I’m currently learning new skills
-- 💞️ I’m looking to collaborate on improve technical skills
+- 💞️ I’m looking to collaborate on improving technical skills
 - 📫 How to reach me : mail4skyle@gmail.com
 
 <!---
